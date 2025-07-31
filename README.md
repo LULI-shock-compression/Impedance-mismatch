@@ -1,11 +1,12 @@
 # Requirements:
-#Tested with Python 3.13.3
-#Required Python libraries:
-numpy
-matplotlib
-scipy
-ipykernel
-ipympl
+Tested with Python 3.13.3
+
+Required Python libraries for VS Code environment:
+* numpy
+* matplotlib
+* scipy
+* ipykernel
+* ipympl
 
 # Files:
 
