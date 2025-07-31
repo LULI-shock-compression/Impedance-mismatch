@@ -1,4 +1,4 @@
-#Requiered Python libraries:
+#Required Python libraries:
 numpy
 matplotlib
 scipy
